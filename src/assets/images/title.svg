@@ -1,0 +1,15 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="2283px" height="142px">
+<defs>
+<linearGradient id="PSgrad_0" x1="0%" x2="99.939%" y1="0%" y2="3.49%">
+  <stop offset="0%" stop-color="rgb(0,114,255)" stop-opacity="1" />
+  <stop offset="49%" stop-color="rgb(0,234,255)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(1,170,255)" stop-opacity="1" />
+</linearGradient>
+
+</defs>
+<text kerning="auto" font-family="Adobe Heiti Std" fill="rgb(0, 0, 0)" transform="matrix( 3.38729763387298, 0, -0.00008398943717, 3.3866795058756,0.41624641320141, 127.950402570804)" font-size="44px"><tspan font-size="44px" fill="#FFFFFF">&#20315;&#23665;&#24066;&#31109;&#22478;&#21306;&#26234;&#24935;&#20844;&#22253;&#25351;&#25381;&#20013;&#24515;</tspan></text>
+<text kerning="auto" font-family="Adobe Heiti Std" fill="url(#PSgrad_0)" transform="matrix( 3.38729763387298, 0, -0.00008398943717, 3.3866795058756,0.41624641320141, 127.950402570804)" font-size="44px"><tspan font-size="44px" fill="#FFFFFF">&#20315;&#23665;&#24066;&#31109;&#22478;&#21306;&#26234;&#24935;&#20844;&#22253;&#25351;&#25381;&#20013;&#24515;</tspan></text>
+</svg>
